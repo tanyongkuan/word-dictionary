@@ -1,0 +1,72 @@
+.word-container {
+  padding: 0.5rem 0;
+}
+
+.word {
+  color: #202124;
+  font-size: 28px;
+}
+
+.phonetic-container {
+  display: flex;
+  align-items: center;
+}
+
+.phonetic-audio-btn {
+  margin-left: 1rem;
+  border-color: #777;
+  background-color: transparent;
+  border-radius: 50%;
+}
+
+.phonetic-audio-btn:hover {
+  background-color: lightblue;
+}
+
+.definition-container {
+  padding-bottom: 0.5rem;
+  max-width: 650px;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  padding-left: 2rem;
+}
+
+.speech-type {
+  text-transform: capitalize;
+  line-height: 22px;
+}
+
+.example {
+  color: #70757a;
+}
+
+.synonyms {
+  display: flex;
+  padding: 0.5rem 0;
+  gap: 0.5rem;
+
+  > span {
+    color: #188038;
+  }
+
+  .synonyms-container {
+    display: flex;
+    flex-flow: wrap;
+  }
+
+  .synonym-container {
+    padding-right: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .synoynm-badge {
+    border-radius: 2rem;
+    border: 1px solid #777;
+    word-wrap: break-word;
+    padding: 0 0.5rem;
+    cursor: pointer;
+  }
+}
