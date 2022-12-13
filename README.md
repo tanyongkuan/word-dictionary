@@ -21,7 +21,7 @@
 
 ## Screenshots
 
-![Home Page](https://github.com/tanyongkuan/pokemon-tinder/blob/main/public/word-dictionary.PNG?raw=true)
+![Home Page](https://github.com/tanyongkuan/pokemon-tinder/blob/main/public/word-dictionary.png?raw=true)
 
 ## About Me
 
