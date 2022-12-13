@@ -20,8 +20,7 @@
 <br/><br/>
 
 ## Screenshots
-
-![Home Page](https://github.com/tanyongkuan/pokemon-tinder/blob/main/public/word-dictionary.png?raw=true)
+![Home Page](https://github.com/tanyongkuan/word-dictionary/blob/main/public/word-dictionary.png?raw=true)
 
 ## About Me
 
